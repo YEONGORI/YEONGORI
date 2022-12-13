@@ -1,8 +1,14 @@
 - 👋 Hi, I’m @YEONGORI
+
 - 🌱 I’m currently learning nodejs, docker, elasticsearch
+
 - 📫 How to reach me -> dusrjf14@naver.com
+
 - 📮 This is my blog -> https://velog.io/@yeongori
 
+- 기술 스택:
+
+#2496ED
 
 
 
