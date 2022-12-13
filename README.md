@@ -6,9 +6,7 @@
 
 - 📮 This is my blog -> https://velog.io/@yeongori
 
-- 기술 스택:
-
-#2496ED
+- 공사중..
 
 
 
