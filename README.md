@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YEONGORI
+- 👋 Hi, I’m @YEONGORI 
 
 - 🌱 I’m currently learning spring, docker, elasticsearch
 
