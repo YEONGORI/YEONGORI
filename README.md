@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YEONGORI 
 
-- 🌱 I’m currently learning spring, docker, elasticsearch
+- 🌱 I’m currently learning spring, docker
 
 - 📫 How to reach me -> dusrjf14@naver.com
 
