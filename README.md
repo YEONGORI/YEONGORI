@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YEONGORI 
 
-- 🌱 I’m currently learning spring, docker, mysql
+- 🌱 I’m currently learning spring boot, docker, mysql
 
 - 📫 How to reach me -> dusrjf14@naver.com
 
