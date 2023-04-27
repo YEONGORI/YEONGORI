@@ -6,8 +6,8 @@
 
 ✏️ 최근 기술 블로그에 공유한 글은
 
+<a href="https://velog.io/@yeongori">기술 블로그 구경가기 🏃🏻‍♀️💨</a>
 
-기술 블로그 구경가기 🏃🏻‍♀️💨
 
 # About me 
 
