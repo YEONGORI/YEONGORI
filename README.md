@@ -1,21 +1,10 @@
-- 👋 Hi, I’m @YEONGORI 
-
-- 🌱 I’m currently learning spring boot, docker, mysql
-
-- 📫 How to reach me -> dusrjf14@naver.com
-
-- 📮 This is my blog -> https://velog.io/@yeongori
-
 # 개발자 이연걸입니다.
 
----
-
 # 🎯 최근 집중하는 기술스택은
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/sprinboot.svg" />
+<img src="https://img.shields.io/badge/springboot-#6DB33Fstyle=for-the-badge&logo=springboot&logoColor=white">
 
 
-
-✏️ 최근 기술 블로그에 이런 글을 공유하였습니다
+✏️ 최근 기술 블로그에 공유한 글은
 
 
 기술 블로그 구경가기 🏃🏻‍♀️💨
