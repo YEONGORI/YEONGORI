@@ -12,8 +12,7 @@
 ## ✏️ 최근 기술 블로그에 공유한 글은
 <a href="https://velog.io/@yeongori/improve-download-performance">[Tech] S3 파일 다운로드 속도 높이기</a>
 
-<a href="https://velog.io/@yeongori/basic-knowledge-of-big-data">[Data] 빅데이터를 지탱하는 기술</a>
-
+<a href="https://velog.io/@yeongori/series/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0">[Data] 빅데이터를 지탱하는 기술</a>
 
 ## About me
 <a href="https://velog.io/@yeongori/">
