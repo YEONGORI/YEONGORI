@@ -1,6 +1,6 @@
-# 개발자 이연걸입니다.
+# 💡 저는
 
-> 기록을 좋아하는 개발자입니다.
+> 기록을 좋아하는 개발자 이연걸입니다.
 
 
 
@@ -12,15 +12,14 @@
 
 
 ## ✏️ 최근 기술 블로그에 공유한 글은
-<a href="https://velog.io/@yeongori/improve-download-performance">[Tech] S3 파일 다운로드 속도 높이기</a>
+<a href="https://velog.io/@yeongori/dockercicd1">[Tech] 국가 권력급 CICD 도전기</a>
 
 <a href="https://velog.io/@yeongori/how-to-make-good-object-feat-lol">[Tech] 좋은 객체를 설계하는 방법</a>
 
 ## About me
 <a href="[https://velog.io/@yeongori/](https://velog.io/@yeongori/series)">
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/%EC%97%B0%EA%B1%B8-%EC%9D%B4-73a47923b/">
+</a><a href="https://www.linkedin.com/in/%EC%97%B0%EA%B1%B8-%EC%9D%B4-73a47923b/">
 <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
