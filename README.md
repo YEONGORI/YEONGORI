@@ -18,10 +18,7 @@
 
 ## About me
 <a href="[https://velog.io/@yeongori/](https://velog.io/@yeongori/series)">
-<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a><a href="https://www.linkedin.com/in/%EC%97%B0%EA%B1%B8-%EC%9D%B4-73a47923b/">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a><a href="https://www.linkedin.com/in/%EC%97%B0%EA%B1%B8-%EC%9D%B4-73a47923b/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!---
 YEONGORI/YEONGORI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
